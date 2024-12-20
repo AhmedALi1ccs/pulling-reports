@@ -1,0 +1,10 @@
+streamlit
+importhttp.client
+json
+pandas
+matplotlib.pyplot
+reportlab.lib.pagesizes
+re
+io
+datetime
+math
